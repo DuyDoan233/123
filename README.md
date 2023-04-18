@@ -3,7 +3,7 @@ My name is Duy Doan. I am an Fresher Data Engineer which I teach myself online. 
 <br>
 
 
-## 🗂 My Projects:
+## 🗂 My Personal Projects:
 
 
 <a href="https://github.com/uvipen/QuickDraw/">
