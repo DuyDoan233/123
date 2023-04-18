@@ -4,7 +4,7 @@ My name is Duy Doan. I am an Fresher Data Engineer which I teach myself online. 
 
 
 ## 🗂 My Personal Projects:
-
+With a friendly and easy-to-use interface, the application will quickly master with new users
 
 <a href="https://github.com/uvipen/QuickDraw/">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
