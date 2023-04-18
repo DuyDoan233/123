@@ -3,6 +3,13 @@ My name is Duy Doan. I am an Fresher Data Engineer which I teach myself online. 
 <br>
 
 
+## 📫 How to reach me:
+
+
+
+
+
+
 
 <a href="https://github.com/uvipen/QuickDraw/">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
