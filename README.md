@@ -14,4 +14,4 @@ My name is Duy Doan. I am an Fresher Data Engineer which I teach myself online. 
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=uvipen&repo=ASCII-generator&theme=merko" />
 </a>
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=DuyDoan233)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=DuyDoan233)]
